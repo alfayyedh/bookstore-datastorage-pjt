@@ -28,12 +28,12 @@
 - **Clone repo** :
   ```
   # Clone
-  git clone https://github.com/rahilaode/dvdrental.git
+  git clone https://github.com/alfayyedh/bookstore-datastorage-pjt.git
   ```
 
 - **Create Sentry Project** :
   - Open : https://www.sentry.io
-  - Signup with email you want to get notifications abot the error
+  - Signup with email you want to get notifications about the error
   - Create Project :
     - Select Platform : Python
     - Set Alert frequency : `On every new issue`
