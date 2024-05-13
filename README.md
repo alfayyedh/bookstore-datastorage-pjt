@@ -1,4 +1,4 @@
-# DVD Rental - ELT Pipeline Orhcestration
+# Bookstore - ELT Pipeline Orhcestration
 ## How to use this project?
 1. Requirements
 2. Preparations
@@ -111,12 +111,6 @@
   ```
   dbt seeds
   ```
-- Create staging models. Add this files into staging model
-directory.
-    - https://drive.google.com/drive/folders/1VRayXPOP0bE8vv9rP9Eduvp60Tn6AmBq?usp=sharing
-- Create snapshot. Add this files into snapshots
-directory.
-    - https://drive.google.com/drive/folders/1MN6DDtDevIMmnHXSi9cGeTFx0rt_hGpw?usp=sharing
 ### 5. Orchestrate ELT Pipeline
 - Create schedule to run pipline every one hour.
   ```
